@@ -1,0 +1,8 @@
+1. Démarrage de Zookeeper
+./kafka_2.12-2.6.0/bin/zookeeper-server-start.sh ./kafka_2.12-2.6.0/config/zookeeper.properties
+
+2. Démarrage du serveur Kafka
+./kafka_2.12-2.6.0/bin/kafka-server-start.sh ./kafka_2.12-2.6.0/config/server.properties
+
+3. Pour lancer un script appélé "producer.py" sur python sur un terminal
+python producer.py

@@ -1,0 +1,4 @@
+[2023-11-10 16:04:13,946] INFO Starting the log cleaner (kafka.log.LogCleaner)
+[2023-11-10 16:04:14,033] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
+[2023-11-10 16:07:04,032] INFO The cleaning for partition exo2-0 is aborted and paused (kafka.log.LogCleaner)
+[2023-11-10 16:07:04,033] INFO The cleaning for partition exo2-0 is aborted (kafka.log.LogCleaner)
