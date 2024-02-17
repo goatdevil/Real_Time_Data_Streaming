@@ -1,5 +1,8 @@
 # Real_Time_Data_Streaming Project
 
+Ce projet utilise Kafka et SparkStreaming pour récuperer des données depuis l'api de Velib Metropole et de les traiter ensuite. Dans notre cas, on récupere le nombre de Velib disponible par code postal à partir d'une selection de stations.
+Les explications suivante sont prévue pour un système Ubuntu (possible d'utiliser un codespace github).
+
 ## Initialisation du projet
 Pour pourvoir executer le projet, il faut d'abord installer kafka et spark sur votre machine ou votre codespace.
 Faites attention aux chemins que vous renseigner dans les variables d'environment, ceux présenter peuvent ne pas correpondre à votre machine.
